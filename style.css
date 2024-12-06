@@ -4,6 +4,7 @@ html {
 	padding: 0;
 	background-color: #000000;
 	overflow-x: hidden;
+	font-family: "Revalia", sans-serif;
 }
 
 .content {
@@ -204,8 +205,13 @@ a:active {
 	font-style: normal;
 	text-align: center;
 	color: white;
-	font-size: 65px;
+	font-size: 45px;
 	margin-top: 45%;
+	font-family: "Revalia", sans-serif;
+}
+
+.explan {
+	font-family: "Revalia", sans-serif;
 }
 
 .topic2 {
@@ -218,6 +224,12 @@ a:active {
 	font-size: 30px;
 	/* top: 85%; */
 	z-index: 10000;
+	font-family: "Revalia", sans-serif;
+}
+
+.titlemain {
+	font-family: "Revalia", sans-serif;
+	font-size: 140px;
 }
 
 .topic3 {
@@ -229,6 +241,7 @@ a:active {
 	font-size: 30px;
 	/* top: 85%; */
 	z-index: 10000;
+	font-family: "Revalia", sans-serif;
 }
 
 .socials {
@@ -245,4 +258,12 @@ a:active {
 
 section a {
 	text-decoration: none;
+}
+
+
+
+
+a {
+	font-family: "Revalia", sans-serif;
+
 }
